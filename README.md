@@ -25,8 +25,8 @@
 
 El curso, sus ejemplos y proyectos propuestos están desarrollados en R y R Studio.
 <ul>
-  <li><a href="https://cran.r-project.org/"> Descarga R</li>
-    <li><a href="https://www.rstudio.com/"> Descarga R Studio</li>
+  <li><a href="https://cran.r-project.org/">Descarga R</li>
+  <li><a href="https://www.rstudio.com/">Descarga R Studio</li>
 </ul>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
